@@ -1,7 +1,7 @@
 ﻿# grok-bot-0.18-reconstructed - 中文版
 
 > **原项目 / Original:** [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed)
-> 
+>
 > **代部署/定制服务请联系微信：uaycar**
 
 ## 关于本项目
