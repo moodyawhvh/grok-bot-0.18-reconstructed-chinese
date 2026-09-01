@@ -1,6 +1,6 @@
 <div align="center">
 
-# grok-bot-0.18-reconstructed 中文翻译版
+# Grok Bot 0.18 中文翻译版
 
 **[中文版] Grok Bot 0.18 macOS 桌面应用完整源码重建与扩展版**
 
