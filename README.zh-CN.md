@@ -1,6 +1,6 @@
 <div align="center">
 
-# grok-bot-0.18-reconstructed 中文版
+# Grok Bot 0.18 中文版
 
 **[中文版] Grok Bot 0.18 macOS 桌面应用完整源码重建与扩展版**
 
@@ -20,13 +20,10 @@ Grok Bot 0.18 的 macOS 桌面应用非官方源码重建与扩展项目。提�
 | 链接 | 说明 |
 |:-----|:-----|
 | [原项目](https://github.com/b-nnett/grok-bot-0.18-reconstructed) | 完整源代码，请访问原项目获取 |
-| [原版 README](README.md) | 英文原版说明文档 |
 
 ## 快速开始
 
 完整源代码请访问原项目：https://github.com/b-nnett/grok-bot-0.18-reconstructed
-
-请参考原项目的 README 获取完整的安装和使用说明。
 
 ---
 
